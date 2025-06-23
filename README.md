@@ -206,7 +206,30 @@ getBanana()`,
     forwardDown()
     turn(right)
     forward(2)`,
-        '34': `repeat 2:
+            '31': `repeat 2:
+    forward(3)
+    getBone()
+    turn(back)
+    forward(3)`,
+        '32': `repeat 4:
+    forward(3)
+    getBone()
+    turn(back)
+    forward(3)
+    turn(right)`,
+        '33': `repeat 4:
+    forward()
+    forwardUp()
+    forwardDown()
+    forward()
+    getBone()
+    turn(back)
+    forward()
+    forwardUp()
+    forwardDown()
+    forward()
+    turn(right)`,
+      '34': `repeat 2:
     turtle.forward(2)
     forward(2)
     getBone()
@@ -264,7 +287,7 @@ repeat 3:
     turn(left)
     forward(2)
     turn(right)
-    getBone()`,
+getBone()`,
         '41': `a=3
 forward(a)
 getBanana()`,
