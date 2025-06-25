@@ -1,2 +1,5 @@
 # kodlabuyu-cozucu
-Bölümleri çözer, tıklamadan önce kısa bir süre bekler ve sonraki bölüme geçer.
+[Tampermonkey](https:www.tampermonkey.net) eklentisiyle bölümleri çözer ve sonraki bölüme geçer.
+
+## İndirme:
+https://update.greasyfork.org/scripts/540775/Kodlabuyu%20Beta%20S%C3%BCr%C3%BCm.user.js
