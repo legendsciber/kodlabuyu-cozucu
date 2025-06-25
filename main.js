@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Kodlabuyu Studio Final Sürüm (Gecikmeli Tıklama)
+// @name         Kodlabuyu Beta Sürüm
 // @namespace    http://tampermonkey.net/
 // @version      2.8.2
 // @description  Bölümleri çözer, tıklamadan önce kısa bir süre bekler ve sonraki bölüme geçer.
@@ -7,6 +7,7 @@
 // @match        https://studiokodlabuyu.kodris.com/*
 // @grant        none
 // @run-at       document-idle
+// @license      GNU GPLv3
 // ==/UserScript==
 
 (function() {
